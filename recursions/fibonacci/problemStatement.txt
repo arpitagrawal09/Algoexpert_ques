@@ -1,0 +1,5 @@
+Problem Statement taken from https://github.com/pinglu85/algoExpert/blob/05c7c5366e9cdd2879447dd526a8daf1f947faea/Easy/nth-fibonacci.md#L4
+
+Nth Fibonacci
+Understanding the problem
+Given an integer n, we are asked to write a function that is going to return the nth Fibonacci number in the Fibonacci sequence. Normally, the Fibonacci sequence uses zero based indexing, which means the first two numbers of the sequence are F0 = 0 and F1 = 1. However, in this problem, we are going to use one based indexing. For instance, getNthFib(1) should return 0 instead of 1.
