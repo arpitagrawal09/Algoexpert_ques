@@ -6,6 +6,6 @@ We are given two arrays of integers array and sequence. We are asked to implemen
 
 Example:
 
-array: [3, 1, 7, 5, 10, 2];
-sequence: [1, 5, 2];
+array: [3, 1, 7, 5, 10, 2]
+sequence: [1, 5, 2]
 Output: true

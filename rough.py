@@ -1,3 +1,25 @@
+array = [1, 3, 2]
+array.sort()
+print(array)
+
+"""def sumImbalanceNumbers(nums):
+        nums.sort()
+        l = len(nums)
+        imbalNum = 0
+        for i in range(l-1):
+            for j in range(i+1, l):
+                subArr = nums[i:j+1]
+                subArr.sort()
+                for k in range(len(subArr)-1):
+                    offset = subArr[k+1]-subArr[k]
+                    if offset > 1:
+                        imbalNum += 1
+        return imbalNum 
+
+#obj = Solution()
+arr1 = [1, 3, 3, 3, 5]
+imbalNum = sumImbalanceNumbers(arr1)
+print(imbalNum)"""
 """digit = int("6")
 digit = digit + digit
 print(digit)"""
