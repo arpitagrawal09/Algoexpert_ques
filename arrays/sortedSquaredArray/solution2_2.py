@@ -27,10 +27,16 @@ def sortedSquaredArray(array):
             sorted[i]=squareRight
             r +=1
         i+=1
-    if l==-1 :
+    if l==-1 and r != length:
         while(r<length):
             sorted[i]=array[r]*array[r]
-    if r==length :
+            i+=1
+    elif r==length and l!=-1:
         while(l>-1):
             sorted[i]=array[l]*array[l]
+            i+=1
     return sorted
+
+array1 = [-7, 5, 9]
+sorted = sortedSquaredArray(array1)
+print(sorted)
