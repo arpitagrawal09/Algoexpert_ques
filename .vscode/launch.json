@@ -4,7 +4,7 @@
             "name": "Python: File",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/arrays/validateSubsequence/revision1.py",
+            "program": "${workspaceFolder}/leetcode_09_July/qx.py",
             "justMyCode": true
         }
     ]
