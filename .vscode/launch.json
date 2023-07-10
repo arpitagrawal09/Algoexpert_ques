@@ -4,7 +4,7 @@
             "name": "Python: File",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/leetcode_09_July/qx.py",
+            "program": "${workspaceFolder}/arrays/sortedSquaredArray/solution2_2.py",
             "justMyCode": true
         }
     ]

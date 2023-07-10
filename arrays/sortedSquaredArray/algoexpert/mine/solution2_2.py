@@ -11,8 +11,10 @@ def sortedSquaredArray(array):
     sorted = [0] * length
     i = 0
     while i<length:
-        if l==-1: break
-        if r==length:break
+        if l==-1: 
+            break
+        if r==length:
+            break
         eL = array[l]
         eR = array[r]
         squareLeft = eL * eL
@@ -30,10 +32,12 @@ def sortedSquaredArray(array):
     if l==-1 and r != length:
         while(r<length):
             sorted[i]=array[r]*array[r]
+            r+=1
             i+=1
     elif r==length and l!=-1:
         while(l>-1):
             sorted[i]=array[l]*array[l]
+            l-=1
             i+=1
     return sorted
 
