@@ -1,4 +1,0 @@
-#Pls ignore. The topic list can be understood from the folder structure 
-
-1. Arrays 
-2. 
