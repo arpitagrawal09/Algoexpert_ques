@@ -4,7 +4,7 @@
             "name": "Python: File",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/arrays/sortedSquaredArray/solution2_2.py",
+            "program": "${workspaceFolder}/arrays/tournamentWinner/revision1.py",
             "justMyCode": true
         }
     ]
