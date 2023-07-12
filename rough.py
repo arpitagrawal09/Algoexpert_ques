@@ -1,6 +1,25 @@
-array = [1, 3, 2]
+student = {
+    "Name" : "Mahesh",
+    "Age" : 21,
+    "City" : "Chennai"
+    }
+
+#print(student)
+#print(student["Name"])
+#student["subject"]="Arts"
+#print(student)
+#print(len(student))
+#print(student.keys())
+#print(student.values())
+#print(student.items())
+#student.update({"height":5.3})
+#print(student)
+student.update({"subject":"Sculpture"})
+print(student)
+
+"""array = [1, 3, 2]
 array.sort()
-print(array)
+print(array)"""
 
 """def sumImbalanceNumbers(nums):
         nums.sort()
