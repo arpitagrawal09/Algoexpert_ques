@@ -1,5 +1,5 @@
 #Correct. Passed all test cases in algoexpert. Exactly same as solution 1
-#Keywords - twoSum, Sorted, Non empty, at most one such pair, distinct
+#Keywords - twoSum, Non empty, at most one such pair, distinct
 #Method one, two coupled loop - finding all pairs and checking the equality for each of the pairs  
 
 def twoNumberSum(array, target):

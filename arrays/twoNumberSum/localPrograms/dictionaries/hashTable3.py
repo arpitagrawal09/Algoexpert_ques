@@ -1,3 +1,5 @@
+#Copied from algoexpert official, maybe
+
 def twoNumberSum(array, target):
     nums = {}
     for num in array:
