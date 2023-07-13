@@ -18,18 +18,18 @@ Difficulty chart:
 ⬛ : Very Hard
 
 Problem Statement	Difficulty	Solution
-⭐	Two Number Sum	🟩	two-number-sum.py
-⭐	Validate Subsequence	🟩	validate-subsequence.py
-⭐	Tournament Winner	🟩	tournament-winner.py
-⭐	Non-Constructible Change	🟩	non-constructible-change.py
-⭐	Find Closest Value in BST	🟩	closest-in-BST.py
-⭐	Branch Sums	🟩	branch-sums.py
-⭐	Node Depths	🟩	node-depths.py
-⭐	Depth First Search	🟩	depth-first-search.py
-⭐	Minimum Waiting Time	🟩	minimum-waiting-time.py
-⭐	Class Photos	🟩	class-photos.py
-⭐	Remove Duplicates from Linked List	🟩	remove-duplicates.py
-⭐	Nth Fibonacci	🟩	nth-fibonacci.py
+⭐	Two Number Sum	🟩	
+⭐	Validate Subsequence	🟩	
+⭐	Tournament Winner	🟩	
+⭐	Non-Constructible Change	🟩	
+⭐	Find Closest Value in BST	🟩	
+⭐	Branch Sums	🟩	
+⭐	Node Depths	🟩	
+⭐	Depth First Search	🟩	
+⭐	Minimum Waiting Time	🟩	
+⭐	Class Photos	🟩	
+⭐	Remove Duplicates from Linked List	🟩	
+⭐	Nth Fibonacci	🟩	
 ⭐	Validate Subsequence	🟩	validate-subsequence.py
 ⭐	Product Sum	🟩	product-sum.py
 ⭐	Binary Search	🟩	binary-search.py
@@ -42,7 +42,7 @@ Problem Statement	Difficulty	Solution
 ⭐	Run Length Encoding	🟩	run-length-encoding.py
 ⭐	Generate Document	🟩	generate-document.py
 ⭐	Sorted Square Array	🟩	sorted-square-array.py
-⭐	First Non Repeating Character	🟩	first-non-repeating-character.py
+⭐	First Non Repeating Character	🟩	
 ⭐	Tandem Bicycle	🟩	tandem-bicycle.py
 ⭐	Three Number Sum	🟦	three-number-sum.py
 ⭐	Smallest Difference	🟦	smallest-difference.py
