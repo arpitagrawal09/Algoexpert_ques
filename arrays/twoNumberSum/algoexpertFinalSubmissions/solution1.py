@@ -1,7 +1,5 @@
-#Trying to learn complexities by rewriting the code in hand
-#Keywords - twoSum, Sorted, Non empty, at most one such pair, distinct
+#CORRECT. ALL TEST CASES PASSED
 #Method one, two coupled loop - finding all pairs and checking the equality for each of the pairs  
-#This program is copied to Algoexpert as solution 1 
 
 def twoNumberSum(array, targetSum):
     l = len(array)

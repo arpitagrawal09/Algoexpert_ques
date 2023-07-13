@@ -1,3 +1,5 @@
+from algoexpertFinalSubmissions.solution1 import twoNumberSum
+
 # Test Case 1
 array = [3, 5, -4, 8, 11, 1, -1, 6]
 targetSum = 10
@@ -69,7 +71,7 @@ array = [15]
 targetSum = 15
 output = twoNumberSum(array, targetSum)
 print(output)  # Expected: []
-Running these test cases should give you the expected output for each case. Let me know if you have any further questions!
+
 
 
 
