@@ -1,3 +1,7 @@
+#Seems to be the wrong solution. I think have simply not solved this questions yet
+#Probably I did not take any notes for this question
+#The last attempt must have taken multiple hours without any success. 
+
 def minimumAreaRectangle(points):
     # Write your code here.
     n = len(points)

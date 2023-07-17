@@ -1,0 +1,1 @@
+#Algoexpert has solution 2. I don't know anything about it. So here goes a blank file

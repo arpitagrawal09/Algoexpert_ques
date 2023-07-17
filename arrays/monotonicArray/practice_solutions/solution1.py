@@ -1,3 +1,7 @@
+#This solution did not pass any test case at algoexpert as on 17/07
+#Complexities not tried
+#Official solution seen : possibly not  
+
 def isMonotonic(array):
     # Write your code here.
     l = len(array)

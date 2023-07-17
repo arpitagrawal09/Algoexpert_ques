@@ -1,3 +1,7 @@
+#Not noted anything
+#Complexities not tried
+#Official solution seen : possibly not
+
 def isMonotonic(array):
     isMonotonic = False
     isExpectedNonDecreasing = None
