@@ -1,3 +1,8 @@
+#Accepted solution at algoexpert
+#Time complexity not calculated
+#First attempt time : should be between 2-4 hours
+#Revision attempt : none as on 17/07
+
 def lineThroughPoints(points):
     # Write your code here.
     n = len(points)
