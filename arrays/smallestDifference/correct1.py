@@ -1,3 +1,5 @@
+#Accepted at algoexpert. Don't remember the date. Official solution possibly not seen
+
 def smallestDifference(arrayOne, arrayTwo):
     # Write your code here.
     l1 = len(arrayOne)

@@ -1,3 +1,5 @@
+#Accepted at algoexpert. Should be minimal. Date not noted 
+
 def nonConstructibleChange(coins):
     # Write your code here.
     limitValue = 0
